@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome! 👋
+
+[![](https://banner.codetree.ai/v1/banner/heejaykong)](https://www.codetree.ai/profiles/heejaykong)
 
 <!--
 **heejaykong/heejaykong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
