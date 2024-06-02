@@ -1,5 +1,36 @@
-### Welcome! 👋
+### 안녕하세요, 웹개발자 공희재입니다. 👋
 
+**경력**
+* 🧪 안랩 (2024.01 - 현재)
+* 🦷 오스템임플란트 (2022.08 - 2024.01)
+* 🍀 네이버 클로바 (2021.11 - 2022.02)
+
+**학력**
+* ❄ 숙명여자대학교 컴퓨터과학전공/홍보광고학과 학사
+
+**기술**
+* Vue.js
+* React
+* Spring Boot
+---
+### Hi! I'm Heejay Kong. 👋
+
+I'm a software engineer from South Korea.
+
+**Experience**
+* 🧪 AhnLab (2024.01 - Present)
+* 🦷 Osstem Implant (2022.08 - 2024.01)
+* 🍀 Naver Clova (2021.11 - 2022.02)
+
+**Education**
+* ❄ Sookmyung Women's University
+  * Bachelor's degree, Computer Science / Public Relations and Advertising
+
+**Skills**
+* Vue.js
+* React
+* Spring Boot
+---
 [![](https://banner.codetree.ai/v1/banner/heejaykong)](https://www.codetree.ai/profiles/heejaykong)
 
 <!--
