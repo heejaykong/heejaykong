@@ -18,9 +18,9 @@
 I'm a software engineer from South Korea.
 
 **Experience**
-* 🧪 AhnLab (2024.01 - Present)
-* 🦷 Osstem Implant (2022.08 - 2024.01)
-* 🍀 Naver Clova (2021.11 - 2022.02)
+* 🧪 AhnLab (Jan 2024 - Present)
+* 🦷 Osstem Implant (Aug 2022 - Jan 2024)
+* 🍀 Naver Clova (Nov 2021 - Feb 2022)
 
 **Education**
 * ❄ Sookmyung Women's University
